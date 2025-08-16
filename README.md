@@ -3,7 +3,15 @@
 ![](https://github.com/itsmearafik/PaySwift_Case_Study/blob/main/PaySwift_dashboard.png)
 
 ## Phase 1: Understanding the Data and Initial Thoughts
-Before we even look at specific data (which you'll be providing), let's pre-emptively consider what we'll be looking for within each column you mentioned. This will help us formulate specific queries and analyses.
+* Business Question: <br>`How can we use data to increase feature adoption, reduce loan defaults, and improve customer
+retention?"`
+<br>
+1. Low adoption rates for new features: Users are not engaging with certain digital services. <br>
+2. High loan default rates: Many customers are struggling to repay micro-loans. <br>
+3. Customer churn: A significant number of users sign up but stop using the service after a
+few months. <br>
+
+
 ## Our Data Columns:
 -	Userid: Unique identifier. Essential for grouping and understanding individual customer journeys.
 -	Age: Demographic information. Could reveal age-related patterns in feature adoption, default risk, or churn.
